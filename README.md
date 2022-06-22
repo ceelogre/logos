@@ -1,4 +1,4 @@
 # Logos Collection
 
-This is a collection of logos to use freely.  
+This is a collection of brand logos to use freely. 
 PRs are welcome!
