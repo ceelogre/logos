@@ -1,0 +1,67 @@
+.container {
+      width: 80%;
+      max-width: 400px;
+      margin: auto;
+
+      background-color:  #fff;
+      padding: 20px;
+      border-radius: 10px ;
+
+      display: flex;
+      justify-content: space-between;
+    }
+    a {
+      text-decoration: none;
+      color: #fff;
+      background-color: rgb(58, 58, 60);
+
+      width: 50px;height: 50px;
+      border-radius: 100%;
+      font-size: 1.5rem;
+      text-align: center;
+      transition: all 0.3s;
+
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .twitter:hover {
+      background: #1da1f2;
+    }
+    .ig:hover {
+      background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%)
+    }
+    .fb:hover {
+      background: #426782;
+    }
+    .spotify:hover {
+      background-color: #1DB954;
+    }
+    .github:hover {
+      background-color: #4078c0;
+    }
+    .apple:hover {
+      background-color: #555555;
+    }
+    .google:hover {
+      background-color: #4285F4;
+    }
+    .firefox:hover {
+      background-color: #00539f;
+    }
+    .pinterest:hover {
+      background-color: #e60023;
+    }
+    .linux:hover {
+      background-color: #00539f;
+    }
+    .slack:hover {
+      background-color: #E01E5A;
+    }
+    .android:hover {
+      background-color: #78C257;
+    }
+    .lyft:hover {
+      background-color: #ff00bf;
+    }
